@@ -1,6 +1,5 @@
 <template>
   <div>
-    hi
     <router-link to='/search'><el-button type="primary" plain> search</el-button></router-link>
     <br>
     <router-view></router-view>
