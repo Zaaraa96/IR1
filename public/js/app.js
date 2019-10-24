@@ -3420,6 +3420,84 @@ __webpack_require__.r(__webpack_exports__);
     return {
       input: ''
     };
+  },
+  methods: {
+    search: function search() {
+      var input = this.input;
+      var length = input.length;
+      var inputarr = [];
+      var fixed = [];
+      var notin = [];
+      var source = "";
+      var cat = "";
+
+      if (length > 0) {
+        for (var i = 0; i < length; i++) {
+          if (input[i] == '"') {
+            fixed.push(i);
+          }
+        }
+      }
+
+      if (fixed.length > 1) {
+        //if one of " is extra we delete it
+        if (fixed.length % 2 == 1) {
+          fixed.pop();
+        } //find exact word between ""
+
+
+        for (var j = fixed.length - 1; j >= 0; j = j - 2) {
+          //word is in fixed[j-1],fixed[j]
+          if (fixed[j] > fixed[j - 1] + 1) {
+            var word = input.slice(fixed[j - 1], fixed[j] + 1);
+            var word2 = input.slice(fixed[j - 1] + 1, fixed[j]);
+            input = input.replace(word, '');
+            word2 = word2.trim();
+            inputarr.push(word2);
+          } else {
+            var _word = '""';
+            input = input.replace(_word, '');
+          }
+        }
+      }
+
+      input = input.replace('"', '');
+      input = input.replace(/: /g, ":");
+      input = input.replace(/:/g, ": ");
+      input = input.trim();
+      input = input.split(' ');
+      var s = input.indexOf("source:");
+      var c = input.indexOf("cat:");
+
+      if (s != -1) {
+        source = input[s + 1];
+        input[s] = '';
+        input[s + 1] = '';
+      }
+
+      if (c != -1) {
+        cat = input[c + 1];
+        input[c] = '';
+        input[c + 1] = '';
+      }
+
+      for (var i = 0; i < input.length; i++) {
+        if (input[i] != "") {
+          if (input[i][0] == '!') {
+            if (input[i].length > 1) {
+              notin.push(input[i].slice(1));
+            }
+          } else {
+            inputarr.push(input[i]);
+          }
+        }
+      }
+
+      console.log("word list: ", inputarr);
+      console.log("not in list: ", notin);
+      console.log("source: ", source);
+      console.log("cat: ", cat);
+    }
   }
 });
 
@@ -81211,7 +81289,10 @@ var render = function() {
         [
           _c(
             "el-button",
-            { attrs: { type: "danger", icon: "el-icon-search" } },
+            {
+              attrs: { type: "danger", icon: "el-icon-search" },
+              on: { click: _vm.search }
+            },
             [_vm._v("Search")]
           )
         ],
