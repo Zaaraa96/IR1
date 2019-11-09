@@ -90,6 +90,28 @@ export default {
       console.log("not in list: ",notin);
       console.log("source: ",source);
       console.log("cat: ",cat);
+
+
+          let query={};
+          query.inputarr= inputarr;
+          query.notin=notin;
+          query.source=source;
+          query.cat=cat;
+          this.$http.post('/api/search',query)
+          .then(req=>{
+            let body=req.body;
+            console.log(req);
+            console.log(body);
+          }, error =>{
+            console.log(error);
+          });
+
+
+
+
+
+
+
 },
   },
 };
