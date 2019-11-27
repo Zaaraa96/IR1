@@ -3397,6 +3397,38 @@ __webpack_require__.r(__webpack_exports__);
       main: "<p>\u0631\u0648\u0632 \u067E\u0646\u062C\u0634\u0646\u0628\u0647 \u062F\u0631 \u0647\u0645\u0627\u06CC\u0634 \u0645\u0628\u0644\u063A\u0627\u0646 \u062F\u0631 \u062F\u0641\u062A\u0631 \u062A\u0628\u0644\u06CC\u063A\u0627\u062A \u0627\u0633\u0644\u0627\u0645\u06CC \u062D\u0648\u0632\u0647 \u0639\u0644\u0645\u06CC\u0647 \u0642\u0645\u060C \u0627\u0632 \u0633\u062E\u0646\u0631\u0627\u0646\u06CC \u0627\u062D\u0645\u062F \u0648\u0627\u0639\u0638\u06CC\u060C \u0631\u06CC\u0627\u0633\u062A \u0627\u06CC\u0646 \u062F\u0641\u062A\u0631 \u062C\u0644\u0648\u06AF\u06CC\u0631\u06CC \u06A9\u0631\u062F\u0646\u062F.</p>\n<p>\u062F\u0631 \u0647\u0645\u06CC\u0646 \u0631\u0627\u0633\u062A\u0627\u060C \u062D\u062C\u062A \u0627\u0644\u0627\u0633\u0644\u0627\u0645 &nbsp;\u0645\u062D\u0645\u062F \u062C\u0639\u0641\u0631\u06CC \u06AF\u06CC\u0644\u0627\u0646\u06CC\u060C \u0631\u0626\u06CC\u0633 \u0647\u06CC\u0623\u062A \u0627\u0645\u0646\u0627\u06CC \u062F\u0641\u062A\u0631 \u062A\u0628\u0644\u06CC\u063A\u0627\u062A \u0627\u0633\u0644\u0627\u0645\u06CC&nbsp; \u062F\u0631\u0627\u06CC\u0646 \u0628\u0627\u0631\u0647 \u06AF\u0641\u062A: \u0645\u062A\u0627\u0633\u0641\u0627\u0646\u0647 \u0627\u06CC\u0646 \u0627\u0641\u0631\u0627\u062F \u062F\u0631 \u062A\u0645\u0627\u0645\u06CC \u0645\u0631\u0627\u0633\u0645\u200C\u0647\u0627 \u062D\u0636\u0648\u0631 \u062F\u0627\u0631\u0646\u062F. \u0628\u0631\u0627\u06CC \u0646\u0645\u0648\u0646\u0647\u060C \u062F\u0631 \u06AF\u0630\u0634\u062A\u0647 \u0647\u0645 \u06A9\u0647 \u0631\u0626\u06CC\u0633 \u0645\u062C\u0644\u0633 \u0634\u0648\u0631\u0627\u06CC \u0627\u0633\u0644\u0627\u0645\u06CC \u062F\u0631 \u0627\u06CC\u0646 \u0634\u0647\u0631 \u0633\u062E\u0646\u0631\u0627\u0646\u06CC \u062F\u0627\u0634\u062A\u060C \u0627\u0645\u062B\u0627\u0644 \u0627\u06CC\u0646 \u0627\u0641\u0631\u0627\u062F \u062F\u0631\u0635\u062F\u062F \u0628\u0631\u0647\u0645 \u0632\u062F\u0646 \u0633\u062E\u0646\u0631\u0627\u0646\u06CC \u0627\u0648 \u0628\u0648\u062F\u0646\u062F.</p>\n<p>\u0648\u06CC \u0627\u0641\u0632\u0648\u062F: \u0627\u06CC\u0646 \u0627\u0641\u0631\u0627\u062F \u0686\u0645\u0627\u0642\u062F\u0627\u0631\u0627\u0646 \u0645\u062F\u0631\u0646 \u0647\u0633\u062A\u0646\u062F \u0648 \u0628\u0631\u0627\u06CC \u0686\u0646\u06CC\u0646 \u06A9\u0627\u0631\u0647\u0627\u06CC\u06CC \u062E\u0644\u0642 \u0634\u062F\u0647\u200C\u0627\u0646\u062F. \u0648\u0642\u062A\u06CC \u06A9\u0633\u06CC \u0627\u062D\u0645\u062F \u0648\u0627\u0639\u0638\u06CC \u0631\u0627 \u06A9\u0647 \u06F5 \u062D\u06A9\u0645 \u0627\u0632 \u0645\u0642\u0627\u0645 \u0645\u0639\u0638\u0645 \u0631\u0647\u0628\u0631\u06CC \u062F\u0627\u0631\u062F\u060C \u062A\u062D\u0645\u0644 \u0646\u06A9\u0646\u062F \u062F\u06CC\u06AF\u0631 \u0686\u0647 \u06A9\u0633\u06CC \u0631\u0627 \u0645\u06CC \u062A\u0648\u0627\u0646\u062F \u062A\u062D\u0645\u0644 \u06A9\u0646\u062F\u061F</p>\n<p>\u062C\u0639\u0641\u0631\u06CC \u06AF\u06CC\u0644\u0627\u0646\u06CC \u0628\u0627 \u0628\u06CC\u0627\u0646 \u0627\u06CC\u0646\u06A9\u0647 \u0631\u06CC\u0634\u0647 \u0686\u0646\u06CC\u0646 \u0627\u0642\u062F\u0627\u0645\u0627\u062A\u06CC \u062F\u0631 \u0628\u06CC\u200C\u0639\u0642\u0644\u06CC\u060C \u0628\u06CC\u200C\u0645\u0628\u0627\u0644\u0627\u062A\u06CC\u060C \u062E\u0648\u062F\u0632\u0646\u06CC \u0648 \u062E\u0648\u062F\u0633\u0631\u06CC \u062E\u0644\u0627\u0635\u0647 \u0645\u06CC\u200C\u0634\u0648\u062F\u060C \u06AF\u0641\u062A: \u0645\u062A\u0627\u0633\u0641\u0627\u0646\u0647 \u0648\u0642\u062A\u06CC \u062F\u0648 \u0631\u0626\u06CC\u0633 \u0642\u0648\u0647\u200C\u0642\u0636\u0627\u06CC\u06CC\u0647 \u067E\u06CC\u0634\u06CC\u0646 \u0628\u0647 \u062C\u0627\u0646 \u0647\u0645 \u0645\u06CC\u200C\u0627\u0641\u062A\u0646\u062F \u0648 \u0628\u0647 \u0647\u0645 \u062A\u0648\u0647\u06CC\u0646 \u0645\u06CC\u200C\u06A9\u0646\u0646\u062F\u060C \u0686\u0646\u06CC\u0646 \u0631\u0641\u062A\u0627\u0631\u0647\u0627\u06CC\u06CC \u0647\u0645 \u062F\u0631 \u062C\u0627\u0645\u0639\u0647 \u0628\u0631\u0648\u0632 \u0645\u06CC\u200C\u06A9\u0646\u062F.<br /> &nbsp;<br /> \u0648\u06CC \u0628\u0627 \u0627\u0628\u0631\u0627\u0632 \u0627\u0645\u06CC\u062F\u0648\u0627\u0631\u06CC \u0646\u0633\u0628\u062A \u0628\u0647 \u0628\u0631\u062E\u0648\u0631\u062F \u0628\u0627 \u0686\u0646\u06CC\u0646 \u0631\u0641\u062A\u0627\u0631\u0647\u0627\u06CC\u06CC \u06AF\u0641\u062A: \u0627\u0644\u0628\u062A\u0647 \u0628\u0647 \u0646\u0638\u0631 \u0645\u06CC\u200C\u0631\u0633\u062F \u06A9\u0647 \u062F\u0631 \u0627\u06CC\u0646 \u0645\u0627\u062C\u0631\u0627 \u0645\u0642\u0627\u0645\u200C\u0645\u0639\u0638\u0645 \u0631\u0647\u0628\u0631\u06CC \u0648\u0631\u0648\u062F \u06A9\u0646\u0646\u062F. \u0627\u06AF\u0631 \u0645\u0646 \u0628\u0647 \u0634\u062E\u0635\u0647 \u062F\u0631 \u0627\u06CC\u0646 \u0645\u0631\u0627\u0633\u0645 \u062D\u0636\u0648\u0631 \u062F\u0627\u0634\u062A\u0645 \u0646\u0645\u06CC\u200C\u06AF\u0630\u0627\u0634\u062A\u0645 \u06A9\u0647 \u0686\u0646\u06CC\u0646 \u0627\u062A\u0641\u0627\u0642\u06CC \u0628\u06CC\u0641\u062A\u062F \u0648 \u0628\u0627 \u0647\u0645\u0647 \u06A9\u0633\u0627\u0646\u06CC \u06A9\u0647 \u0642\u0635\u062F \u0627\u062E\u0644\u0627\u0644 \u0648 \u0628\u0631\u0647\u0645 \u0632\u062F\u0646 \u0633\u062E\u0646\u0631\u0627\u0646\u06CC\u200C\u0647\u0627 \u0631\u0627 \u062F\u0627\u0634\u062A\u0646\u062F \u0628\u0631\u062E\u0648\u0631\u062F \u0645\u06CC\u200C\u06A9\u0631\u062F\u0645. \u0645\u0646 \u062E\u0648\u062F\u0645 \u06F4\u06F0 \u0633\u0627\u0644 \u0627\u0633\u062A \u06A9\u0647 \u062F\u0631 \u062F\u0641\u062A\u0631 \u062A\u0628\u0644\u06CC\u063A\u0627\u062A \u0627\u0633\u0644\u0627\u0645\u06CC \u0647\u0633\u062A\u0645 \u0648 \u0647\u0645\u0686\u0646\u06CC\u0646 \u0645\u0648\u0633\u0633 \u0627\u06CC\u0646 \u062F\u0641\u062A\u0631 \u0628\u0648\u062F\u0647\u200C\u0627\u0645 \u0648 \u062F\u0631 \u0627\u06CC\u0646 \u0642\u0628\u06CC\u0644 \u0645\u0631\u0627\u0633\u0645\u0627\u062A \u0645\u0639\u0645\u0648\u0644\u0627 \u0686\u0646\u062F \u062F\u0647 \u0646\u0641\u0631 \u0631\u0648\u062D\u0627\u0646\u06CC \u0631\u0627 \u062F\u0631 \u062C\u0627\u06CC \u062C\u0627\u06CC \u0645\u062C\u0644\u0633 \u0645\u06CC\u200C\u0646\u0634\u0627\u0646\u062F\u0645 \u06A9\u0647 \u0627\u06AF\u0631 \u06A9\u0633\u06CC \u0628\u062E\u0648\u0627\u0647\u062F \u062F\u0631 \u0622\u0646\u0647\u0627 \u062D\u0631\u0641\u06CC \u0627\u0636\u0627\u0641\u0647 \u0628\u0632\u0646\u062F\u060C \u0641\u0648\u0631\u0627 \u06F5\u06F0 \u0646\u0641\u0631 \u0628\u06AF\u0648\u06CC\u0646\u062F \u062E\u0641\u0647 \u0634\u0648! \u0645\u062A\u0627\u0633\u0641\u0627\u0646\u0647 \u0645\u0646 \u062D\u0636\u0648\u0631 \u0646\u062F\u0627\u0634\u062A\u0645 \u0627\u06AF\u0631 \u0628\u0648\u062F\u0645 \u062D\u062A\u0645\u0627 \u0627\u06CC\u0646 \u06A9\u0627\u0631 \u0631\u0627 \u0645\u06CC\u200C\u06A9\u0631\u062F\u0645 \u0648 \u0646\u0645\u06CC\u200C\u06AF\u0630\u0627\u0634\u062A\u0645 \u06A9\u0633\u06CC \u0628\u0647 \u0631\u0626\u06CC\u0633 \u062F\u0641\u062A\u0631 \u062A\u0628\u0644\u06CC\u063A\u0627\u062A \u0627\u0633\u0644\u0627\u0645\u06CC \u062C\u0633\u0627\u0631\u062A \u06A9\u0646\u062F.</p>\n<p>\u062C\u0639\u0641\u0631\u06CC \u06AF\u06CC\u0644\u0627\u0646\u06CC \u0628\u0627 \u0628\u06CC\u0627\u0646 \u0627\u06CC\u0646\u06A9\u0647 \u062A\u0639\u062F\u0627\u062F \u0627\u062E\u0644\u0627\u0644\u200C\u06AF\u0631\u0627\u0646 \u0645\u0631\u0627\u0633\u0645\u200C\u0647\u0627\u06CC \u0633\u062E\u0646\u0631\u0627\u0646\u06CC \u0627\u0646\u062F\u06A9 \u0648 \u0645\u0639\u062F\u0648\u062F \u0627\u0633\u062A\u060C \u06AF\u0641\u062A: \u0628\u0627 \u0627\u06CC\u0646 \u0648\u062C\u0648\u062F \u06A9\u0627\u0645\u0644\u0627 \u0645\u0634\u062E\u0635 \u0627\u0633\u062A \u06A9\u0647 \u0622\u0628\u0634\u062E\u0648\u0631 \u0627\u06CC\u0646 \u0627\u0641\u0631\u0627\u062F \u06A9\u062C\u0627\u0633\u062A. \u0648\u0642\u062A\u06CC \u0639\u062F\u0647\u200C\u0627\u06CC \u062F\u0631 \u06F1\u06F5\u062E\u0631\u062F\u0627\u062F \u0633\u0627\u0644 \u06F8\u06F5 \u0628\u0647 \u0622\u06CC\u062A\u200C\u0627\u0644\u0644\u0647 \u0647\u0627\u0634\u0645\u06CC \u06A9\u0647 \u062F\u0631 \u062D\u0631\u0645 \u062D\u0636\u0631\u062A \u0645\u0639\u0635\u0648\u0645\u0647(\u0633) \u0633\u062E\u0646\u0631\u0627\u0646\u06CC \u062F\u0627\u0634\u062A\u060C \u0647\u062A\u0627\u06A9\u06CC \u06A9\u0631\u062F\u0646\u062F. \u0686\u0646\u06CC\u0646 \u0631\u0641\u062A\u0627\u0631\u0647\u0627\u06CC\u06CC \u0628\u0627 \u0633\u062E\u0646\u0631\u0627\u0646\u06CC \u0631\u0626\u06CC\u0633 \u062F\u0641\u062A\u0631 \u062A\u0628\u0644\u06CC\u063A\u0627\u062A \u0627\u0633\u0644\u0627\u0645\u06CC \u0627\u0645\u0631 \u0639\u062C\u06CC\u0628\u06CC \u0646\u06CC\u0633\u062A. \u0648\u0644\u06CC \u0641\u06A9\u0631 \u0645\u06CC\u200C\u06A9\u0646\u0645 \u0627\u06CC\u0646\u200C\u0628\u0627\u0631 \u0645\u0642\u0627\u0645 \u0645\u0639\u0638\u0645 \u0631\u0647\u0628\u0631\u06CC \u067E\u06CC\u06AF\u06CC\u0631 \u0645\u0627\u062C\u0631\u0627 \u062E\u0648\u0627\u0647\u0646\u062F \u0634\u062F.</p>\n<p>\u06F2\u06F7\u06F2\u06F1\u06F5</p>\n<div class=\"\"gallery hidden\"\"></div>\n",
       aside: "https://media.khabaronline.ir/d/2019/09/01/3/5252226.jpg\n"
     };
+  },
+  mounted: function mounted() {
+    var _this = this;
+
+    var url = localStorage.getItem('urlnews');
+    this.$http.get(url).then(function (req) {
+      //console.log(news);
+      console.log(req);
+      req = req.bodyText;
+      req = eval(req);
+      console.log(req);
+      req = req[1];
+      _this.header = req.title;
+      var str = '';
+      str += 'date: ';
+      str += req.publish_date;
+      str += "\n\n        from: <a href=\"http://\n        ";
+      str += req.url;
+      str += '">';
+      str += req.url;
+      str += '</a>';
+      _this.footer = str;
+      _this.main = req.content;
+      _this.aside = req.thumbnail; //this.=req.summary;
+      //  newss.source=req.url;
+      // for (var i = 0; i < a.length; i++) {
+      //   console.log(a[i]);
+      // }
+      //
+    }, function (error) {
+      console.log(error);
+    });
   }
 });
 
@@ -3434,28 +3466,99 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "result",
   data: function data() {
     return {
-      news: [{
-        title: "پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
-        summary: 'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
-        source: 'http://khabaronline.ir'
-      }, {
-        title: "پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
-        summary: 'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
-        source: 'http://khabaronline.ir'
-      }, {
-        title: "پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
-        summary: 'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
-        source: 'http://khabaronline.ir'
-      }, {
-        title: "پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
-        summary: 'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
-        source: 'http://khabaronline.ir'
-      }]
+      news: [// {title:"پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
+        //  summary:'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
+        //  source:'http://khabaronline.ir'},
+        // {title:"پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
+        //   summary:'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
+        //   source:'http://khabaronline.ir'},
+        // {title:"پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
+        //    summary:'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
+        //    source:'http://khabaronline.ir'},
+        // {title:"پس‌لرزه‌های برهم زدن یک مراسم در قم/جعفری گیلانی: اینها چماقداران مدرن و بی‌عقل هستند/فردی که ۵ حکم از رهبری دارد را تحمل نمی‌کنند",
+        //     summary:'جماران نوشت: جعفری گیلانی گفت: متاسفانه این افراد در تمامی مراسم‌ها حضور دارند. برای نمونه، در گذشته هم که رئیس مجلس شورای اسلامی در این شهر سخنرانی داشت، امثال این افراد درصدد برهم زدن سخنرانی او بودند.',
+        //     source:'http://khabaronline.ir'},
+      ]
     };
+  },
+  methods: {
+    gotonews: function gotonews(id) {
+      console.log('id is: ', id);
+      var str = '';
+      str += id;
+      var url = 'http://127.0.0.1:5000/api/results?id=';
+      url += str;
+      localStorage.urlnews = url;
+      window.location.replace("http://localhost:8000/news");
+    },
+    sortbydate: function sortbydate() {
+      this.news = this.news.sort(function (a, b) {
+        a = new Date(a.date);
+        b = new Date(b.date);
+        console.log(b);
+        return a > b ? -1 : a < b ? 1 : 0;
+      });
+    }
+  },
+  mounted: function mounted() {
+    var _this = this;
+
+    var url = localStorage.getItem('url');
+    this.$http.get(url).then(function (req) {
+      var news = []; //console.log(news);
+      //console.log(req);
+
+      console.log(req);
+      req = req.bodyText;
+      console.log(req);
+      var bold = localStorage.getItem('bold');
+      bold = bold.trim();
+      bold = bold.split(' '); //console.log(bold);
+
+      req = eval(req);
+      console.log(req);
+
+      for (var i = 0; i < req.length; i++) {
+        i = i + 1;
+        var newss = {};
+        newss.id = req[i - 1];
+        newss.title = req[i].title;
+        var date = req[i].publish_date;
+        date = date.split(',');
+        date = date[0];
+        newss.date = date;
+        var text = req[i].summary; // console.log(text);
+        // for (var j = 0; j < bold.length; j++) {
+        //   let word=bold[j];
+        //   let str2=`<em>`;
+        //   str2+=word;
+        //   str2+=`</em>`;
+        //   text=text.replace(word, str2);
+        // }
+
+        newss.summary = text;
+        var str = 'http://';
+        str += req[i].url;
+        newss.source = str; //console.log(newss);
+
+        news.push(newss);
+      }
+
+      _this.news = news;
+      console.log(news);
+      console.log(document.body.innerHTML); // for (var i = 0; i < a.length; i++) {
+      //   console.log(a[i]);
+      // }
+      //
+    }, function (error) {
+      console.log(error);
+    });
   }
 });
 
@@ -3489,6 +3592,7 @@ __webpack_require__.r(__webpack_exports__);
       var input = this.input;
       var length = input.length;
       var inputarr = [];
+      var inputarrlist = [];
       var fixed = [];
       var notin = [];
       var source = "";
@@ -3516,7 +3620,20 @@ __webpack_require__.r(__webpack_exports__);
             var word2 = input.slice(fixed[j - 1] + 1, fixed[j]);
             input = input.replace(word, '');
             word2 = word2.trim();
-            inputarr.push(word2);
+            var check = 0;
+
+            for (var s2 = 0; s2 < word2.length - 1; s2++) {
+              if (word2[s2] == " ") {
+                //console.log(word2[s2]);
+                check++;
+              }
+            }
+
+            if (check > 0) {
+              inputarrlist.push(word2);
+            } else {
+              inputarr.push(word2);
+            }
           } else {
             var _word = '""';
             input = input.replace(_word, '');
@@ -3556,19 +3673,51 @@ __webpack_require__.r(__webpack_exports__);
         }
       }
 
+      console.log(" list of words in '': ", inputarrlist);
       console.log("word list: ", inputarr);
       console.log("not in list: ", notin);
       console.log("source: ", source);
       console.log("cat: ", cat);
       var query = {};
-      query.inputarr = inputarr;
+      query.list = inputarrlist;
+      query.words = inputarr;
       query.notin = notin;
       query.source = source;
       query.cat = cat;
-      this.$http.post('/api/search', query).then(function (req) {
-        var body = req.body;
+      var bold = '';
+
+      for (var i = 0; i < inputarr.length; i++) {
+        bold += inputarr[i];
+        bold += " ";
+      }
+
+      for (var i = 0; i < inputarrlist.length; i++) {
+        bold += inputarrlist[i];
+        bold += " ";
+      }
+
+      localStorage.bold = bold;
+      this.$http.post('http://127.0.0.1:5000/api/search', query).then(function (req) {
         console.log(req);
-        console.log(body);
+        var docIDs = req.body;
+        var str = '';
+
+        for (var i = 0; i < docIDs.length; i++) {
+          var num = 0;
+          num = docIDs[i] - 1;
+          str += num;
+
+          if (i < docIDs.length - 1) {
+            str += ',';
+          }
+        } //console.log(req);
+        //console.log(body);
+
+
+        var url = 'http://127.0.0.1:5000/api/results?id=';
+        url += str;
+        localStorage.url = url;
+        window.location.replace("http://localhost:8000/result");
       }, function (error) {
         console.log(error);
       });
@@ -5489,7 +5638,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.search[data-v-4d55b89a]{\n  margin-top: 15%;\n}\n", ""]);
+exports.push([module.i, "\n.search[data-v-4d55b89a]{\n  direction: rtl;\n  margin-top: 15%;\n}\n", ""]);
 
 // exports
 
@@ -81399,41 +81548,61 @@ var render = function() {
   return _c(
     "div",
     { staticClass: "result" },
-    _vm._l(_vm.news, function(n) {
-      return _c(
-        "div",
-        [
-          _c("el-card", { staticClass: "box-card" }, [
-            _c(
-              "div",
-              {
-                staticClass: "clearfix",
-                attrs: { slot: "header" },
-                slot: "header"
-              },
-              [
-                _c("span", [_vm._v(_vm._s(n.title))]),
-                _vm._v(" "),
-                _c("el-button", {
-                  staticStyle: { float: "left", padding: "3px 0" },
-                  attrs: { type: "text", icon: "el-icon-back" }
-                })
-              ],
-              1
-            ),
-            _vm._v(" "),
-            _c("div", [
-              _vm._v("\n    " + _vm._s(n.summary) + "\n    "),
-              _c("br"),
+    [
+      _c("br"),
+      _vm._v(" "),
+      _c(
+        "el-button",
+        {
+          attrs: { type: "primary", plain: "" },
+          on: { click: _vm.sortbydate }
+        },
+        [_vm._v("sort by date")]
+      ),
+      _vm._v(" "),
+      _vm._l(_vm.news, function(n) {
+        return _c(
+          "div",
+          [
+            _c("el-card", { staticClass: "box-card" }, [
+              _c(
+                "div",
+                {
+                  staticClass: "clearfix",
+                  attrs: { slot: "header" },
+                  slot: "header"
+                },
+                [
+                  _c("span", [_vm._v(_vm._s(n.title))]),
+                  _vm._v(" "),
+                  _c("el-button", {
+                    staticStyle: { float: "left", padding: "3px 0" },
+                    attrs: { type: "text", icon: "el-icon-back" },
+                    on: {
+                      click: function($event) {
+                        return _vm.gotonews(n.id)
+                      }
+                    }
+                  })
+                ],
+                1
+              ),
               _vm._v(" "),
-              _c("a", { attrs: { href: n.source } }, [_vm._v(_vm._s(n.source))])
+              _c("div", [
+                _vm._v("\n    " + _vm._s(n.summary) + "\n    "),
+                _c("br"),
+                _vm._v(" "),
+                _c("a", { attrs: { href: n.source } }, [
+                  _vm._v(_vm._s(n.source))
+                ])
+              ])
             ])
-          ])
-        ],
-        1
-      )
-    }),
-    0
+          ],
+          1
+        )
+      })
+    ],
+    2
   )
 }
 var staticRenderFns = []
@@ -81467,7 +81636,7 @@ var render = function() {
         { attrs: { offset: 8, span: 6 } },
         [
           _c("el-input", {
-            attrs: { placeholder: "search here" },
+            attrs: { placeholder: "در این جا جستجو کنید" },
             model: {
               value: _vm.input,
               callback: function($$v) {
@@ -81490,7 +81659,7 @@ var render = function() {
               attrs: { type: "danger", icon: "el-icon-search" },
               on: { click: _vm.search }
             },
-            [_vm._v("Search")]
+            [_vm._v("جستجو")]
           )
         ],
         1
@@ -99860,8 +100029,8 @@ var routes = [{
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Green\Desktop\IR\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Green\Desktop\IR\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Green\Desktop\projects\IR\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Green\Desktop\projects\IR\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ }),

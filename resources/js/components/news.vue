@@ -45,6 +45,53 @@ export default {
 `
     };
   },
+  mounted:function(){
+    let url=localStorage.getItem('urlnews');
+    this.$http.get(url)
+    .then(req=>{
+      //console.log(news);
+      console.log(req);
+      req=req.bodyText;
+      req= eval(req);
+      console.log(req);
+      req= req[1];
+        this.header=req.title;
+        let str='';
+        str+='date: ';
+        str+=req.publish_date;
+        str+=`
+
+        from: <a href="http://
+        `;
+        str+=req.url;
+        str+='">';
+        str+=req.url;
+        str+='</a>';
+        this.footer=str;
+        this.main=req.content;
+        this.aside=req.thumbnail;
+        //this.=req.summary;
+      //  newss.source=req.url;
+
+
+
+
+      // for (var i = 0; i < a.length; i++) {
+      //   console.log(a[i]);
+      // }
+      //
+    }, error =>{
+      console.log(error);
+    });
+
+
+      },
+
+
+
+
+
+
 };
 </script>
 

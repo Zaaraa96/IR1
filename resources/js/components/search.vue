@@ -1,7 +1,7 @@
 <template>
   <div class="search">
-    <el-col :offset="8" :span="6"><el-input  placeholder="search here"  v-model="input"></el-input></el-col>
-    <el-col :span="2"><el-button type="danger" icon="el-icon-search" @click="search">Search</el-button></el-col>
+    <el-col :offset="8" :span="6"><el-input  placeholder="در این جا جستجو کنید"  v-model="input"></el-input></el-col>
+    <el-col :span="2"><el-button type="danger" icon="el-icon-search" @click="search">جستجو</el-button></el-col>
   </div>
 </template>
 
@@ -18,6 +18,7 @@ export default {
       let input= this.input;
       let length= input.length;
       let inputarr=[];
+      let inputarrlist=[];
       let fixed=[];
       let notin=[];
       let source="";
@@ -44,7 +45,20 @@ export default {
             let word2= input.slice(fixed[j-1]+1, fixed[j]);
             input = input.replace(word, '');
             word2= word2.trim();
-            inputarr.push(word2);
+            let check=0;
+
+            for (var s2=0; s2<word2.length-1;s2++){
+
+              if(word2[s2]==" "){
+                //console.log(word2[s2]);
+                check++;
+              }
+            }
+            if(check>0)
+              {inputarrlist.push(word2);}
+            else{
+              inputarr.push(word2);
+            }
 
           }else {
             let word='""';
@@ -86,6 +100,7 @@ export default {
 
         }
       }
+      console.log(" list of words in '': ",inputarrlist);
       console.log("word list: ",inputarr);
       console.log("not in list: ",notin);
       console.log("source: ",source);
@@ -93,18 +108,46 @@ export default {
 
 
           let query={};
-          query.inputarr= inputarr;
+          query.list=inputarrlist;
+          query.words= inputarr;
           query.notin=notin;
           query.source=source;
           query.cat=cat;
-          this.$http.post('/api/search',query)
+          let bold='';
+          for (var i = 0; i < inputarr.length; i++) {
+            bold+=inputarr[i];
+            bold+=" ";
+          }
+          for (var i = 0; i < inputarrlist.length; i++) {
+            bold+=inputarrlist[i];
+            bold+=" ";
+          }
+          localStorage.bold= bold;
+          this.$http.post('http://127.0.0.1:5000/api/search',query)
           .then(req=>{
-            let body=req.body;
             console.log(req);
-            console.log(body);
+            let docIDs=req.body;
+            let str=''
+            for (var i = 0; i < docIDs.length; i++) {
+              let num=0;
+              num= docIDs[i]-1;
+              str+=num;
+              if(i<docIDs.length-1)
+                {str+=',';}
+            }
+            //console.log(req);
+            //console.log(body);
+            let url='http://127.0.0.1:5000/api/results?id=';
+            url+=str;
+            localStorage.url= url;
+            window.location.replace("http://localhost:8000/result");
+
+
           }, error =>{
             console.log(error);
           });
+
+
 
 
 
@@ -119,7 +162,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
 .search{
+  direction: rtl;
   margin-top: 15%;
 }
 </style>
